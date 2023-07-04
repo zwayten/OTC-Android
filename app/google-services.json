@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576415604066",
+    "project_id": "otc-notification-android",
+    "storage_bucket": "otc-notification-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576415604066:android:19425c51cf21fe044d603b",
+        "android_client_info": {
+          "package_name": "com.example.orangetrainingcenterandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576415604066-et70c6llcepohsb3163js696i4k5vopr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMET_HpksonsTrfU62lKx6_JJibLxw67I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576415604066-et70c6llcepohsb3163js696i4k5vopr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
